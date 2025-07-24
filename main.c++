@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int main() // main() => Name Function // int => Return Type of the Function
+int main()
 {
 
     double balance = 1000.0;
